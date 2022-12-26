@@ -1,5 +1,5 @@
 # Javascript Cheat Sheet
-<img src="https://miro.medium.com/max/828/0*vW4zAmuEFzjLPI5J.webp" width="1005" height="500"/>
+<img src="https://buggyprogrammer.com/wp-content/uploads/2021/05/Javascript-cheatsheet-feautred-image.png" width="1005" height="500"/>
 
 # Introduction
 1. JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions.
