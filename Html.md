@@ -372,9 +372,4 @@ Inline or linked client side scripts. The HTML Script Element ```<script>```is u
 ### Code example :
 ```<script src="javascript.js"></script>```
 
-### Thank You
-
-
-
-
-
+## All the best! 🥇
